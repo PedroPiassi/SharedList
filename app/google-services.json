@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330540662929",
+    "firebase_url": "https://sharedlist-8b2b4-default-rtdb.firebaseio.com",
+    "project_id": "sharedlist-8b2b4",
+    "storage_bucket": "sharedlist-8b2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330540662929:android:d8e5dfd9b8daa272dabf30",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.scl.ads.pdm.sharedlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330540662929-vtatr5556d4ae6fsscvo3r7u5b5latbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoMYtwthqo7powdpJ3sy0wyVh5Q-fSWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330540662929-u8134n6h60077j0iedaeega90afacn34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
